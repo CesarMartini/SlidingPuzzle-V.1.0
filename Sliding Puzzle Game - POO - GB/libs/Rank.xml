@@ -1,0 +1,10 @@
+<list>
+  <Jogador>
+    <nome>Cesar Martini</nome>
+    <win>10</win>
+  </Jogador>
+  <Jogador>
+    <nome>Computador</nome>
+    <win>0</win>
+  </Jogador>
+</list>

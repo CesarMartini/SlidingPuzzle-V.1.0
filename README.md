@@ -1,13 +1,13 @@
   
 	---------------------------------------------------------------------------------
   
-                   		 		       JAVA SLIDING PUZZLE
+        							 JAVA SLIDING PUZZLE
   
-	 			                    Um jogo desenvolvido em JAVA
+							    Um jogo desenvolvido em JAVA
   
-				                        AUTOR: CÉSAR MARTINI
+									AUTOR: CÉSAR MARTINI
 	
-	                                  Versão 1.0.0
+	                                    Versão 1.0.0
 	---------------------------------------------------------------------------------
 	
 	  Desenvolvido como Projeto Final da Cadeira de Programação Orientada a Objetos
